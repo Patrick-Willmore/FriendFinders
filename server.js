@@ -4,9 +4,7 @@ var bodyParser = require("body-parser");
 require("./app/routing/apiroutes")(app);
 require("./app/routing/htmlroutes")(app);
 
-app.get('./app/public/home.html', function(req, res){
-    res.send('home');
-  });
+
 
 var app = express();
 const port = process.env.PORT || 3000

@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Patrick-Willmore/FriendFinder.git"
+    "url": "git+https://github.com/Patrick-Willmore/FriendFinders.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Patrick-Willmore/FriendFinder/issues"
+    "url": "https://github.com/Patrick-Willmore/FriendFinders/issues"
   },
-  "homepage": "https://github.com/Patrick-Willmore/FriendFinder#readme",
+  "homepage": "https://github.com/Patrick-Willmore/FriendFinders#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2"
